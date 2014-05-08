@@ -1,6 +1,6 @@
 // FAT TAG p5
 // a port of Theo Watsons FAT TAG to p5/p5js
-// sorce retrieved from http://fffff.at/fattag/
+// source retrieved from http://fffff.at/fattag/
 
 ////////////////////////////////////////////////////////
 // translators of some oF functions
